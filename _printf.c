@@ -1,7 +1,12 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <unistd.h>
-
+/**
+ * _printf - prints stuff like printf
+ * @format: is the format string
+ * @...: arguments
+ * Return: number of buffers printed on the standard output
+ */
 int _printf(const char *format, ...)
 {
 va_list args;
