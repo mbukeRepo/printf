@@ -1,0 +1,2 @@
+.TH _PRINTF 3 "july 2021"
+.SH NAME _printf - custom function for printing to stdout
