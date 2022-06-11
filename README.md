@@ -3,7 +3,6 @@
 <p>This repository contains implementation of a custome printf function</p>
 
 <h3>Prototype</h3>
-<hr>
 <p>int _printf(const char * format, ...)</p>
 <h3>Format Specifiers</h3>
 <ul>
